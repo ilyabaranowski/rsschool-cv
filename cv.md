@@ -20,11 +20,11 @@ job performance.*
 
 -----------
 ## My Contact Info:
-[iliuxa13@yandex.by](email)
 
-[linkedin.com/in/ilya-baranowski-41925a107](linkedin)  
-
-[github.com/ilyabaranowski](github)
+* **Email:** [iliuxa13@yandex.by](iliuxa13@yandex.by)
+* **Phone:** +375291805165
+* [linkedin](linkedin.com/in/ilya-baranowski-41925a107)
+* [github](github.com/ilyabaranowski)
 
 -----------
 ## WORK EXPERIENCE 
@@ -34,8 +34,7 @@ job performance.*
 **Joint Stock Company Slutsk Sugar Reﬁnery**
 
 *09/2018 - Present*
-
-Was engaged in customs clearance, procurement (including
+* Was engaged in customs clearance, procurement (including
 exchange trading), registration of a foreign exchange
 agreements on the national bank of Belarus, negotiating on the
 procurement and supply of goods. 
@@ -47,44 +46,45 @@ procurement and supply of goods.
 
 *Belarusian State University of Transport*
 
-09/2014 - 07/2018
+* 09/2014 - 07/2018
 
 *Faculty of Humanities and Economics*
 
-Customs aﬀairs 
+* Customs aﬀairs 
 
 ### Front-end Developer
 
 *Intellectfox*
 
-03/2021 - 12/2021
+* 03/2021 - 12/2021
 
 ---------
 ## SKILLS
 
-### HTML5  
-CSS3  
-JavaScript(ES6/ES6+)
-React/Redux  
-Bootstrap  
-Git  
-Figma
-OOP  
-JSON 
+* HTML 
+* CSS  
+* JavaScript(ES6/ES6+)
+* React/Redux  
+* Bootstrap  
+* Git  
+* Figma
+* OOP  
+* JSON 
 
 --------
 ## LANGUAGES 
 
-*English - Full Professional Proﬁciency*
+* *English - Full Professional Proﬁciency*
+[certificate](efset.org/cert/f5BMYm)
 
-*Russian - Native or Bilingual Proﬁciency*
+* *Russian - Native or Bilingual Proﬁciency*
 
-*Belarusian - Native or Bilingual Proﬁciency*
+* *Belarusian - Native or Bilingual Proﬁciency*
 
 -------
 ## INTERESTS
 
-Swiming  
-Music  
-Books  
-Economics 
+* Swiming  
+* Music  
+* Books  
+* Economics 
