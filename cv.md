@@ -23,8 +23,8 @@ job performance.*
 
 * **Email:** [iliuxa13@yandex.by](iliuxa13@yandex.by)
 * **Phone:** +375291805165
-* [linkedin](linkedin.com/in/ilya-baranowski-41925a107)
-* [github](github.com/ilyabaranowski)
+* [linkedin.com/in/ilya-baranowski-41925a107](linkedin)
+* [github.com/ilyabaranowski](github)
 
 -----------
 ## WORK EXPERIENCE 
@@ -74,8 +74,8 @@ procurement and supply of goods.
 --------
 ## LANGUAGES 
 
-* *English - Full Professional Proﬁciency*
-[certificate](efset.org/cert/f5BMYm)
+* *English - Full Professional Proﬁciency,*
+[efset.org/cert/f5BMYm](certificate)
 
 * *Russian - Native or Bilingual Proﬁciency*
 
