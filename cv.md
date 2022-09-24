@@ -26,8 +26,8 @@ job performance._
 
 - **Email:** [iliuxa13@yandex.by](iliuxa13@yandex.by)
 - **Phone:** +375291805165
-- [linkedin](linkedin.com/in/ilya-baranowski-41925a107)
-- [github](github.com/ilyabaranowski)
+- [linkedin](https://linkedin.com/in/ilya-baranowski-41925a107)
+- [github](https://github.com/ilyabaranowski)
 
 ---
 
@@ -83,7 +83,7 @@ _Intellectfox_
 ## LANGUAGES
 
 - _English - Full Professional Proﬁciency,_
-  [certificate](efset.org/cert/f5BMYm)
+  [certificate](https://efset.org/cert/f5BMYm).
 
 - _Russian - Native or Bilingual Proﬁciency_
 
