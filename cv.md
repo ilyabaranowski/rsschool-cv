@@ -26,7 +26,7 @@ job performance._
 
 - **Email:** [iliuxa13@yandex.by](iliuxa13@yandex.by)
 - **Phone:** +375291805165
-- [linkedin](https://linkedin.com/in/ilya-baranowski-41925a107)
+-  [linkedin](https://linkedin.com/in/ilya-baranowski-41925a107)
 - [github](https://github.com/ilyabaranowski)
 
 ---
